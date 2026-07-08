@@ -1,0 +1,13 @@
+Name=input("Enter Your Name:")
+Age=input("Enter your age:")
+College=input("Enter your college name:")
+Branch=input("Enter your branch name:")
+City=input("Enter Your city name:")
+
+print("===============STUDENT PROFILE===============")
+print(f"{"Name":<10}:{Name}")
+print(f"{"Age":<10}:{Age}")
+print(f"{"College":<10}:{College}")
+print(f"{"Branch":<10}:{Branch}")
+print(f"{"City":<10}:{City}")
+print("==============================================")
